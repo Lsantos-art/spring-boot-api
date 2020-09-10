@@ -32,4 +32,3 @@ build/
 ### VS Code ###
 .vscode/
 test.java
-application.properties
