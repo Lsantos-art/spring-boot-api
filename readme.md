@@ -1,0 +1,1 @@
+O Spring é realmente poderoso, com pouco código foi possível criar esta API simples mas totalmente funcional e escalável. Utilizando Postgres como DB, Swagger como interface e Heroku para Deploy.
